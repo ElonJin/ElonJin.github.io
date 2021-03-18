@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-03-17T17:17:56.762Z</updated>
+  <updated>2021-03-18T14:26:32.350Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>jack liu</title>
+    <title>Jack Liu</title>
     <link href="http://yoursite.com/2021/03/16/jackliu/"/>
     <id>http://yoursite.com/2021/03/16/jackliu/</id>
     <published>2021-03-16T15:35:13.000Z</published>
-    <updated>2021-03-17T17:17:56.762Z</updated>
+    <updated>2021-03-18T14:26:32.350Z</updated>
     
     
       
@@ -34,10 +34,10 @@
     
     
     
-    <category term="jack" scheme="http://yoursite.com/categories/jack/"/>
+    <category term="Jack" scheme="http://yoursite.com/categories/Jack/"/>
     
     
-    <category term="jack" scheme="http://yoursite.com/tags/jack/"/>
+    <category term="Jack" scheme="http://yoursite.com/tags/Jack/"/>
     
   </entry>
   
